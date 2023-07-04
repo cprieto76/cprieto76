@@ -1,5 +1,3 @@
-
-https://assets.soyhenry.com/logos/ISOLOGO_HENRY_BLACK.png
 <h1 align="center">Hi 👋, I'm Carlos Prieto</h1>
 <h3 align="center">A passionate Data Scientist from Colombia</h3>
 
