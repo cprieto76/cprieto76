@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Carlos Prieto, nice to meet you all!</h2>
 <h3 align="center">A passionate Data Scientist from Colombia</h3>
 
-- 🔭 I’m currently working on **my final project** about NY City
+- 🔭 I’m currently working on **my final project** about NY City Transportation Solution
 - ❤️ My last project was on Data Analytics "Telecommunication Services in Argentina"
 - ✌️ My first project was "Movie recommendation system with MLOps"
 
